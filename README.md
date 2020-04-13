@@ -1,2 +1,2 @@
-# khoa
+# PSO
 how to use github
